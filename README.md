@@ -7,7 +7,7 @@
     Screenshots <i>(Click images to watch a trailer)</i> <br>
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=o2_uT8qcJys" 
     target="_blank"><img src="https://cdn.apkmonk.com/images/com.GamifyStudios.SuperHeroJump.png" 
-    alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+    alt="video game screenshot" width="300" height="250" border="10" /></a>
     
   </body>
 </html>
